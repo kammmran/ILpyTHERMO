@@ -5,20 +5,19 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="ILpyTHERMO",
-    version="0.1.0",
+    version="0.1.1",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="k.a.heydarov@gmail.com",
     description="A Python library for accessing and processing ILThermo database data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ILpyTHERMO",
+    url="https://github.com/kammmran/ILpyTHERMO",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
